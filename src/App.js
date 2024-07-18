@@ -10,7 +10,7 @@ export default function App() {
         Hello🙋🏻‍♀️
        </header>
     <main>
-      <Dictionary />
+      <Dictionary defaultKeywork="hello" />
     </main>
     <footer className="App-footer">
       <small>Coded by Maribel Boban</small>
