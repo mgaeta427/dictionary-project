@@ -10,12 +10,11 @@ export default function App() {
         Hello🙋🏻‍♀️
        </header>
     <main>
-      <Dictionary defaultKeywork="hello" />
+      <Dictionary defaultKeyword="sunset" />
     </main>
     <footer className="App-footer">
       <small>Coded by Maribel Boban</small>
       </footer>
-
       </div>
       </div>
         
